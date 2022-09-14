@@ -1,4 +1,4 @@
-name = "web"
-account_id = "2575000dd90a08dbbeb2b8cca2e64775" # scraper.workers.dev
+name = "scraper"
+account_id = "0c465cc475ff7288efad75d90176810a" # psychoprolapse.workers.dev
 type = "webpack"
 workers_dev = true
